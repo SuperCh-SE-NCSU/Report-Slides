@@ -1,5 +1,5 @@
 
-Out=../../www/SuperCh-SE-NCSU
+Out=../../www/SuperCh-SE-NCSU-Report-Slides
 Raw=$(PWD)
 Lib=./lib
 
