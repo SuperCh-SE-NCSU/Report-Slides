@@ -1,6 +1,6 @@
-# txts
-Our first repository includes our project proposal and personal introduction.
-
+# Report Slides
+Our first repository includes our project proposal and personal introduction.<br/>
+http://www4.ncsu.edu/~zhu6/SuperCh-SE-NCSU-Report-Slides/slides/talk1.html#(1)
 
 Phases:
 
