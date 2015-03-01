@@ -1,4 +1,4 @@
-% Team Member Info and Project_1 Proposal
+% Project_1a Report
 % SuperCh-SE-NCSU
   Zhewei Hu, Liang Dong, Shupeng Niu
-% January 19th, 2015
+% March 3rd, 2015
