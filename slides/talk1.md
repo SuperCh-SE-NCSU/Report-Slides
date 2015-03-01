@@ -1,40 +1,7 @@
-% Team Member Info and Project_1 Proposal
+% Project_1a Report
 % SuperCh-SE-NCSU
   Zhewei Hu, Liang Dong, Shupeng Niu
-% January 19th, 2015
-# Zhewei Hu
-
-<img align=left src="../img/zhewei.jpg">
-<center>
-- My name is Zhewei Hu.
-- I come from Zhejiang, China.
-- I am first year graduate student at NC State University.
-- I like watching and editing videos when I am free.
-- I believe I will learn a lot in this course!
-</center>
-
-
-# Liang Dong
-<img align=left src="../img/Liang.jpg" style="float:left;with:100px;height:300px">
-<center>
-- First year PhD student in NCSU
-- Come from Hubei, China
-- Love programming and basketball
-- Find me in <a href="http://dragonfly90.github.io">Personal Website</a>
-</center>
-
-
-# Shupeng Niu
-
-<img align=left src="../img/Shupeng.jpg" style="float:left;with:100px;height:300px">
-<center>
-- My name is Shupeng Niu.
-- I come from Henan, China.
-- Working on Physics and Computer Science.
-- I love Dota2, One Piece.
-</center>
-
-
+% March 3rd, 2015
 #Project Ideas: 
 
 <center>
