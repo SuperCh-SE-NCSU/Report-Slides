@@ -44,6 +44,10 @@ We will develop this website using self-developed Python regular expression and 
 - <u><a href="http://www.kbb.com">kbb</a>.</u>
 </div> 
 </center>
+#Workflow:
+
+<img align=center src="../img/workflow.png">
+
 #Subscribe website:
 
 <img align=center src="../img/Subscribe website.png" style="width:549px;height=285px">
