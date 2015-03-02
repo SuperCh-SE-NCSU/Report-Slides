@@ -84,10 +84,16 @@ We will develop this website using self-developed Python regular expression and 
 
 <img align=right src="../img/Crawl.png" style="width:526px;height=600px">
 
-- We can obtain data from Craglist with restrictions, such as car maker, car model and car year.
+- We can obtain data from Craglist with specified parameters, such as car maker, car model and car year.
 - We will do crawling everyday for each user according to information they offered.
 
-#kbb data
+#kbb data:
+
+<img align=right src="../img/kbb.png" style="width:664px;height=437px">
+
+- We can obtain data from kbb with specified parameters, such as car maker, car model and car year.
+- kbb is a dynamic website (different kinds of cars have different vehicleids), so we have to do crawling everyday for each user, according to information they offered.
+
 #Email Service:
 
 <img align=center src="../img/Email service.png" style="width:626px;height=325px">
