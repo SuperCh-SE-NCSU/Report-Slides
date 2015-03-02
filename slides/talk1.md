@@ -36,6 +36,14 @@ We will develop this website using self-developed Python regular expression and 
 
 - Version_2: Full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
 
+#Information sources:
+
+<center>
+<div style="font-size:50px" align="left">
+- <u><a href="http://www.craigslist.org/about/sites">Craglist</a></u>
+- <u><a href="http://www.kbb.com">kbb</a>.</u>
+</div> 
+</center>
 #Subscribe website:
 
 <img align=center src="../img/Subscribe website.png" style="width:549px;height=285px">
@@ -45,57 +53,12 @@ We will develop this website using self-developed Python regular expression and 
 - On this webpage you need type your name, car maker, car model, year and your real email address.
 
 
-#Information sources:
+#Subscribe website:
 
-<center>
-<div style="font-size:50px" align="left">
-- <u><a href="http://www.craigslist.org/about/sites">Craglist</a></u>
-- <u><a href="http://www.kbb.com">kbb</a>.</u>
-</div> 
-</center>
-# Energy use in Terawatt-hours
+- We imported enough information about popular car makers and car models, you can find what you need quickly.
+- We make use some restrictions to ensure the data collected from users is 100 percent right.
+- When user click button, his/her data will store in database.
+<img align=left src="../img/Subscribe website1.png" style="width:250px;height:300px">
+<img align=right src="../img/Subscribe website2.png" style="width:250px;height:300px>
 
-<center>
-
-years    Fossil   Nuclear    Renewable     Total
------    ------   -------    ---------    -------
-1990      83374      6113        13082     102569
-2000      94493      7857        15337     117687
-2008     117076      8283        18492     143851
-
-	
-Table:  
-
-</center>
-To save the planet
-
-- Save energy
-- Walk more
-
-# Beauty of Plot
-
-
-<img align=right src="../img/plot/plot1.png">
-
-- z-ness has large variance [@item1; @item2].
-- x is symmetric to y  [@item3, pp. 33-35]
-- as predicted by theory [@item1]
-
-
-# Developing method
-
-This is how we develop
-
-developing ![all the dat](../img/dot/dot1.png)
-
-# Euler's Identity
-
-<center>
-<div style="font-size:50px">
-- It is...
-- ${\HUGE e^{i\pi}+1=0 }$
-
-</div>
-</center>
-
-# References
+-
