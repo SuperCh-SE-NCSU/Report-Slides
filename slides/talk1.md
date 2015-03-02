@@ -52,9 +52,9 @@ We will develop this website using self-developed Python regular expression and 
 
 <img align=center src="../img/Subscribe website.png" style="width:549px;height=285px">
 
-- We build a friendly webpage to help users subscribe our email service.
-- We have already deploy this <u><a href="https://rocky-spire-5172.herokuapp.com/" target="_blank">webpage on Heroku</a></u>.
-- On this webpage you need type your name, car maker, car model, year and your real email address.
+- We built a friendly webpage to help users subscribe our email service.
+- We have already deployed this <u><a href="https://rocky-spire-5172.herokuapp.com/" target="_blank">webpage on Heroku</a></u>.
+- On this webpage you need type your name, car maker, car model, year and your real email address to subscribe.
 
 
 #Subscribe website:
@@ -69,9 +69,9 @@ We will develop this website using self-developed Python regular expression and 
 
 <img align=center src="../img/Email service.png" style="width:626px;height=325px">
 
-- If users already subscribed email service, we will send them email once per day.
-- Users can unsubscribe, if he/she have already found suitable car.
-- Email above is just an sample email. We will send specific car prices information to users.
+- If users subscribed our email service, we will send them one email per day,containing the car information they specified.
+- Users can unsubscribe, if he/she have already found a suitable car they need.
+- Email above is just an sample email. We will send information with specific car price to users.
 
 #Function design for model
 
