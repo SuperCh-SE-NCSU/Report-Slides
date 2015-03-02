@@ -55,8 +55,7 @@ We will develop this website using self-developed Python regular expression and 
 
 #Subscribe website:
 
-<img align=center src="../img/Subscribe website1.png" style="width:233px;height:280px">
-<img align=right src="../img/Subscribe website2.png" style="width:233px;height:280px">
+<img align=center src="../img/Subscribe website1.png" style="width:549px;height=285px">
 
 - We imported enough information about popular car makers and car models, you can find what you need quickly.
 - We make use some restrictions to ensure the data collected from users is 100 percent right.
