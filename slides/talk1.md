@@ -36,6 +36,15 @@ We will develop this website using self-developed Python regular expression and 
 
 - Version_2: Full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
 
+#Subscribe website:
+
+<img align=center src="../img/Subscribe website.png" style="width:549px;height=285px">
+
+- We build a friendly webpage to help users subscribe our email service.
+- We have already deploy this <u><a href="https://rocky-spire-5172.herokuapp.com/" target="_blank">webpage on Heroku</a></u>.
+- On this webpage you need type your name, car maker, car model, year and your real email address.
+
+
 #Information sources:
 
 <center>
