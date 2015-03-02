@@ -20,6 +20,12 @@ Then our website will show the customer the posts(link to the original posts on 
 - <b>Advantage:</b> Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.It’s a pain to look up cars’ kbb price again and again.
 Our website will do the two jobs for customers automatically, and people can get updated information emailed to them from our website’s subscription service.
 
+#Term Versions:
+
+- Version_1: Minimal functionality (According to customers’ selected conditions on our website, send them emails including several most useful factors stated above from 2 websites, Craglist and kbb.)
+
+- Version_2: Full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
+
 #Two approaches: 
  
 We will develop this website using self-developed Python regular expression and Scrapy (a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages) using <b>Agile Development Model</b>. 
@@ -29,12 +35,6 @@ We will develop this website using self-developed Python regular expression and 
 <p>Follow our public repository <u><a href="https://github.com/SuperCh-SE-NCSU/ProjectScraping">ProjectScraping</a></u> in Github</p>
 - <div style="font-size:30px"><b>Scrapy:</b></div> 
 <i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
-
-#Term Versions:
-
-- Version_1: Minimal functionality (According to customers’ selected conditions on our website, send them emails including several most useful factors stated above from 2 websites, Craglist and kbb.)
-
-- Version_2: Full functionality (Build a database of customers login information and search records. Everytime customer login our website, they will get latest information since last login. Customers can also get updated information from our website’s subscription service, eg. one time per day.)
 
 #Information sources:
 
@@ -73,7 +73,13 @@ We will develop this website using self-developed Python regular expression and 
 - Users can unsubscribe, if he/she have already found suitable car.
 - Email above is just an sample email. We will send specific car prices information to users.
 
-#Model
+#Function design for model
+
+- <b>Kbb function:</b> kbbGetData(sess, make,model,year).
+- <b>cragList function:</b> craglistsearch(cmake,cmodel,cstartyear,cendyear,cminprice,cmaxprice,ctime).
+- <b>compare prices function:</b> carlistwithkbbprice = craglistsearchKbb(carlist).
+- carlistwithkbbprice will call kbbPrice to get the kbb price for every car.
+
 #Craglist:
 
 <img align=right src="../img/Crawl.png" style="width:526px;height=600px">
