@@ -48,7 +48,7 @@ We will develop this website using self-developed Python regular expression and 
 
 <center>
 <div style="font-size:50px" align="left">
-- <u><a href="http://www.craigslist.org/about/sites">Craglist</a></u>
+- <u><a href="http://www.craigslist.org/about/sites">Craigslist</a></u>
 - <u><a href="http://www.kbb.com">kbb</a>.</u>
 </div> 
 </center>
@@ -70,20 +70,21 @@ We will develop this website using self-developed Python regular expression and 
 <img align=center src="../img/Subscribe website1.png" style="width:549px;height=285px">
 
 - We imported enough information about popular car makers and car models, you can find what you need quickly.
-- We make use some restrictions to ensure the data collected from users is 100 percent right.
-- When user click button, his/her data will store in database.
+- We specified input restrictions to ensure the data collected from users is 100 percent right.
+- When user clicks the button, his/her data will be stored in database.
 
 #Function design for model:
 
 - <b>Kbb function:</b> kbbGetData(sess, make,model,year).
-- <b>cragList function:</b> craglistsearch(cmake,cmodel,cstartyear,cendyear,cminprice,cmaxprice,ctime).
+- <b>Craigslist function:</b> craglistsearch(cmake,cmodel,cstartyear,cendyear,cminprice,cmaxprice,ctime).
 - <b>compare prices function:</b> carlist_with_kbb_price = craglistsearchKbb(carlist).
 - carlist_with_kbb_price will call kbbPrice to get the kbb price for every car.
 
-#Craglist data:
+#Craigslist data:
 
 <img align=right src="../img/Crawl.png" style="width:526px;height=600px">
 
+- We can obtain data from Craigslist with restrictions, such as car maker, car model and car year.
 - We can obtain data from Craglist with specified parameters, such as car maker, car model and car year.
 - We will do crawling everyday for each user according to information they offered.
 
