@@ -12,24 +12,23 @@
 
 
 
+#Goals:  
+
+- Develop a website, offering car buyers the integrated information of used cars, based on customers’ needs and several most useful factors (model, year, website link and price range).
+- To be more specific, based on a customer’s needs(car model, year of make, mileage,etc) we find the posts on craiglist, which agree with the customer’s needs and look up the price for the car on sale on the post from Kbb. 
+Then our website will show the customer the posts(link to the original posts on craiglist) with cars he is interested in on sale and the price from Kbb. 
+- <b>Advantage:</b> Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.It’s a pain to look up cars’ kbb price again and again.
+Our website will do the two jobs for customers automatically, and people can get updated information emailed to them from our website’s subscription service.
+
 #Two approaches: 
  
 We will develop this website using self-developed Python regular expression and Scrapy (a fast high-level screen scraping and web crawling framework, used to crawl websites and extract structured data from their pages) using <b>Agile Development Model</b>. 
 
 - <div style="font-size:30px"><b> Self-developed Python regular expression:</b></div>
 <i>We are going to use python urllib module which opens a communication link with a URL to download the raw content of the web site. Then we parse the raw content using regular expression and design data structure to store the information.</i>
-<p>Follow our public repository <a href="https://github.com/SuperCh-SE-NCSU/ProjectScraping">ProjectScraping</a> in Github</p>
+<p>Follow our public repository <u><a href="https://github.com/SuperCh-SE-NCSU/ProjectScraping">ProjectScraping</a></u> in Github</p>
 - <div style="font-size:30px"><b>Scrapy:</b></div> 
 <i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
-
-#Goals:  
-
-- Develop a website, offering car buyers the integrated information of used cars, based on customers’ needs and several most useful factors (model, year, website link and price range).
-
--  To be more specific, based on a customer’s needs(car model, year of make, mileage,etc) we find the posts on craiglist, which agree with the customer’s needs and look up the price for the car on sale on the post from Kbb. 
-Then our website will show the customer the posts(link to the original posts on craiglist) with cars he is interested in on sale and the price from Kbb. 
-- Advantage: Right now, people have to go to craiglist to find the car they are interested in with a seller’s price, and then go to kbb, checking out the review price.It’s a pain to look up cars’ kbb price again and again.
-Our website will do the two jobs for customers automatically, and people can get updated information emailed to them from our website’s subscription service.
 
 #Term Versions:
 
@@ -40,9 +39,9 @@ Our website will do the two jobs for customers automatically, and people can get
 #Information sources:
 
 <center>
-<div style="font-size:80px">
-- <a href="http://www.craigslist.org/about/sites">Craglist</a>
-- <a href="http://www.kbb.com">kbb</a>.
+<div style="font-size:50px" align="left">
+- <u><a href="http://www.craigslist.org/about/sites">Craglist</a></u>
+- <u><a href="http://www.kbb.com">kbb</a>.</u>
 </div> 
 </center>
 # Energy use in Terawatt-hours
