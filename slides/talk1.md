@@ -79,3 +79,4 @@ We will develop this website using self-developed Python regular expression and 
 
 - We can obtain data from Craglist with restrictions, such as car maker, car model and car year.
 - We will do crawling everyday for each user according to information they offered.
+#Model
