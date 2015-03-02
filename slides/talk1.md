@@ -12,6 +12,14 @@
 
 
 
+#Milestones:
+
+- Beta Launch (Finished)
+- Version_1: Minimal functionality (Processing)
+- Version_2: Full functionality (Processing, Scrapy)
+- Unit Test, Integrate Test and System Test (Processing, during all development period)
+- Finish final reports
+
 #Goals:  
 
 - Develop a website, offering car buyers the integrated information of used cars, based on customers’ needs and several most useful factors (model, year, website link and price range).
@@ -73,7 +81,7 @@ We will develop this website using self-developed Python regular expression and 
 - Users can unsubscribe, if he/she have already found a suitable car they need.
 - Email above is just an sample email. We will send information with specific car price to users.
 
-#Function design for model
+#Function design for model:
 
 - <b>Kbb function:</b> kbbGetData(sess, make,model,year).
 - <b>cragList function:</b> craglistsearch(cmake,cmodel,cstartyear,cendyear,cminprice,cmaxprice,ctime).
