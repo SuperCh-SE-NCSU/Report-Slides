@@ -80,7 +80,7 @@ We will develop this website using self-developed Python regular expression and 
 - <b>compare prices function:</b> carlist_with_kbb_price = craglistsearchKbb(carlist).
 - carlist_with_kbb_price will call kbbPrice to get the kbb price for every car.
 
-#Craglist:
+#Craglist data:
 
 <img align=right src="../img/Crawl.png" style="width:526px;height=600px">
 
