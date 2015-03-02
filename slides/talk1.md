@@ -61,9 +61,9 @@ We will develop this website using self-developed Python regular expression and 
 - We make use some restrictions to ensure the data collected from users is 100 percent right.
 - When user click button, his/her data will store in database.
 
-#Email Service
+#Email Service:
 
-<img align=left src="../img/Email service.png">
+<img align=center src="../img/Email service.png" style="width:626px;height=325px">
 
 - If users already subscribed email service, we will send them email once per day.
 - Users can unsubscribe, if he/she have already found suitable car.
