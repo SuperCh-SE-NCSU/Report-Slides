@@ -68,3 +68,10 @@ We will develop this website using self-developed Python regular expression and 
 - If users already subscribed email service, we will send them email once per day.
 - Users can unsubscribe, if he/she have already found suitable car.
 - Email above is just an sample email. We will send specific car prices information to users.
+
+#Craglist:
+
+<img align=center src="../img/Crawl.png" style="width:733px;height=835px">
+
+- We can obtain data from Craglist with restrictions, such as car maker, car model and car year.
+- We will do crawling everyday for each user according to information they offered.
