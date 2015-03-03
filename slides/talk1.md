@@ -1,8 +1,8 @@
 % Web Crawler Application 
-% Project_1a Report
 % SuperCh-SE-NCSU
   Zhewei Hu, Liang Dong, Shupeng Niu
 % March 3rd, 2015
+
 #Project Ideas: 
 
 <center>
@@ -96,6 +96,7 @@ We will develop this website using self-developed Python regular expression and 
 - Users can unsubscribe, if he/she have already found a suitable car they need.
 - Email above is just an sample email. We will send information with specific car price to users.
 
+#Test:
 #Potential Bad Smell List:
 
  1. Only one step in whole development period.
