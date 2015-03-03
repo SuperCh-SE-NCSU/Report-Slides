@@ -1,3 +1,4 @@
+% Web Crawler Application 
 % Project_1a Report
 % SuperCh-SE-NCSU
   Zhewei Hu, Liang Dong, Shupeng Niu
@@ -44,14 +45,6 @@ We will develop this website using self-developed Python regular expression and 
 - <div style="font-size:30px"><b>Scrapy:</b></div> 
 <i>Scrapy is an open-course and collaborative framework for extracting the data you need from websites in a fast, simple, yet extensible way.</i>
 
-#Information sources:
-
-<center>
-<div style="font-size:50px" align="left">
-- <u><a href="http://www.craigslist.org/about/sites">Craigslist</a></u>
-- <u><a href="http://www.kbb.com">kbb</a>.</u>
-</div> 
-</center>
 #Workflow:
 
 <img align=center src="../img/workflow.png">
@@ -102,4 +95,15 @@ We will develop this website using self-developed Python regular expression and 
 - If users subscribed our email service, we will send them one email per day,containing the car information they specified.
 - Users can unsubscribe, if he/she have already found a suitable car they need.
 - Email above is just an sample email. We will send information with specific car price to users.
+
+#Potential Bad Smell List:
+
+ 1. Only one step in whole development period.
+ 2. One step long time.
+ 3. God class.
+ 4. Duplicated code.
+ 5. Project's repo has dozens of commits.
+ 6. Project's repo has dozens of issue reports.
+ 7. The project has no "passengers".
+ 8. The project has no "great dictator".
 
