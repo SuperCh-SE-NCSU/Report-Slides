@@ -97,6 +97,15 @@ We will develop this website using self-developed Python regular expression and 
 - Email above is just an sample email. We will send information with specific car price to users.
 
 #Test:
+
+- We user continuous intergration test tool Travis CI to ensure every <b>git pull</b> will pass the test.
+
+<img align=center src="../img/Travis CI.png" style="width:519px;height=132px">
+
+- We also add unit tests on .py files.
+
+<img align=center src="../img/Unit test.png" style="width:1307px;height=279px">
+
 #Potential Bad Smell List:
 
  1. Only one step in whole development period.
